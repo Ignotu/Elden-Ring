@@ -1,0 +1,7 @@
+1. Steam>Elden Ring>Verwalten>Lokale Dateien Dursuchen
+
+2. inhalt von "Elden Ring Coop" in "Game"-folder kopieren
+
+3.Game>SeamlessCoop>seamlesscoopsettings / Dann bei coopassword = AmeisenXanis
+
+4. "launch_elden_ring_seamlesscoop" ausführen
